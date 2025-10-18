@@ -10,8 +10,8 @@ body {
 }
 
 .mesa-fondo {
-    /* URL de imagen de fondo de madera oscura, verificada */
-    background-image: url('https://images.unsplash.com/photo-1541701490232-a7d5781a79f3?q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1920&fit=max'); 
+    /* ¡CAMBIO CLAVE! Apunta a la imagen subida a tu propia carpeta */
+    background-image: url('madera-fondo.jpg'); 
     background-size: cover;
     background-position: center;
     width: 100%;
